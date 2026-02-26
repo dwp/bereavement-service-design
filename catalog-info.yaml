@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: bereavement-service-design
-  title: Bereavement-service-design
+  title: Bereavement-Service-Design
   description: A prototype for bereavement
 
   annotations:
